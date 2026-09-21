@@ -10,15 +10,7 @@ This course is part of the AI LAB series.
 
 ## Student Learning Outcomes
 
-Students will become familiar with how project information — construction documents, subcontract commitments, RFIs, submittals, change orders, and site observations — is created, exchanged, and consumed across a project lifecycle. Students will then run experiments that use AI agents and LLMs to improve, or stress-test, that information flow. The experiments will include integration with AI, LLMs, and agents, giving students hands-on experience building coordination tools against real and synthetic construction data.
-
-By the end of the course, students will be able to:
-
-1. Describe the project information lifecycle (preconstruction → contracting → execution → closeout) and the documents that carry it.
-2. Obtain and assess public project data (permits, inspections, bidding records) and reason about the limits of proprietary data.
-3. Generate and justify synthetic project data for experiments where real data is unavailable.
-4. Design and deploy AI agents that support coordination between GCs, subcontractors, and design teams.
-5. Validate a thesis about construction information flow through iterative, documented experiments.
+Students will become familiar with how information flows through the construction industry — construction documents, subcontractor commitments, project communications, and site realities — across the project lifecycle. This context will inform students to run experiments with AI agents and LLMs to validate their thesis about where information flow breaks down in construction coordination. The experiments will include integration with AI, LLMs, and Agents — built against real and synthetic project data — which students will get hands-on experience with toward developing coordination and decision-support tools for general contractors, subcontractors, and design teams.
 
 ## Required Course Materials
 
